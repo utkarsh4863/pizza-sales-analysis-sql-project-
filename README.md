@@ -38,5 +38,11 @@ Included SQL queries perform analyses such as:
 
 - SQL (compatible with MySQL, PostgreSQL, and other relational databases)
 - Designed for integration with data visualization tools
+- 
+##  ER Diagram
+
+This diagram represents the relationships between all four tables in the Pizza Sales database:
+
+![ER Diagram];
 
 
