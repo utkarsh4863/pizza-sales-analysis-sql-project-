@@ -38,7 +38,7 @@ Included SQL queries perform analyses such as:
 
 - SQL (compatible with MySQL, PostgreSQL, and other relational databases)
 - Designed for integration with data visualization tools
-- 
+
 
 
 
